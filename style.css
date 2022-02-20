@@ -227,7 +227,7 @@ body{
 }
 .service-box::before {
 	content: "";
-	bottom: 120px;
+	bottom: 144px;
 	left: 31px;
 	position: absolute;
 	height: 3px;
